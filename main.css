@@ -1,0 +1,47 @@
+.navbar {
+    background-color: #5c0900;
+    font-family: 'Lobster', cursive;
+    font-size: larger;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #fff;
+    color: #e6b0aa;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover {
+    color: #fff
+}
+
+.navbar-toggler {
+    background-color: #ffff;
+}
+
+h2,
+h3{
+    font-family: 'Lobster', cursive;
+}
+
+#sobre img{
+    height: 30em;
+    width: 100%;
+}
+
+span{
+    color: #5c0900;
+}
+
+form{
+    margin-bottom: 8px;
+}
+
+footer{
+    background-color: #5c0900;
+    color: #fff;
+}
+
+h6{
+    margin-left: 32px;
+}
